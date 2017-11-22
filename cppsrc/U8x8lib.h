@@ -39,11 +39,6 @@
 #ifndef _U8X8LIB_HH
 #define _U8X8LIB_HH
 
-#include <Arduino.h>
-#include <Print.h>
-
-#include "u8x8.h"
-
 
 /* Assumption: All Arduino Boards have "SPI.h" */
 #define U8X8_HAVE_HW_SPI
